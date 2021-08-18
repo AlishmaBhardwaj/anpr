@@ -1,0 +1,2 @@
+# anpr
+Automatic number-plate recognition (ANPR) is a technology that uses optical character recognition on images to read vehicle registration plates and then creates the  vehicle location data. Automatic number-plate recognition can be used in a number of scenarios ranging from helping to catch traffic law breakers to tracking down a stolen vehicle. ANPR stores the images captured by the cameras as well as the text from the license plate. The plus point is that after some further configuration it can also store a photograph of the driver. 
